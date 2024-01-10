@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/awishwaseem_x1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awishwaseem_x1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aawish waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aawish waseem" height="30" width="40" /></a>
-<a href="https://fb.com/awishwaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awishwaseem" height="30" width="40" /></a>
+<a href="https://fb.com/awish waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awish waseem" height="30" width="40" /></a>
 <a href="https://instagram.com/awishwaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awishwaseem" height="30" width="40" /></a>
 </p>
 
